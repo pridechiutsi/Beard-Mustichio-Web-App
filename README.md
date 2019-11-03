@@ -32,4 +32,5 @@ Beard Fashion
 * correcting errors
 * Submit
 
-< link https://github.com/pridechiutsi/Mustichio-enthusiastic
+
+<p align="left"> >><a href="https://pridechiutsi.github.io/Mustichio-enthusiastic/" > index page </a><<<br><br>
