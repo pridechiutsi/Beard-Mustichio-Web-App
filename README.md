@@ -27,10 +27,15 @@ Beard Fashion
  * they will be google links for more information about the origin of mustacchior better illustrations i am going to use pictures and short videos.
 
 ## Plan 
-* creating front end  in 2 weeks first and,
-* creating back end in 3 weeks second
-* correcting errors
-* Submit
+* Week 8 : Github update
+* Week 9 : Setting home pages and css
+* Week 10 : Completion of Front-End
+* Week 11 : Backend Optimization
+* Week 12 : Frontend Optimization
+* Week 13 : Backend Debugging and Stress testing
+* Week 14 : Upgrade Ops based on Teacher's Input
+* Week 15 : Final Release
+
 
 
 <p align="left"> >><a href="https://pridechiutsi.github.io/Mustichio-enthusiastic/" > index page </a><<<br><br>
