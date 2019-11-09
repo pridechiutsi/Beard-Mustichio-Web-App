@@ -1,6 +1,6 @@
-# Mustichio-enthusiastic
-Beard Fashion 
-# MUSTACCHIO WEB APP
+# Beard Mustichio-enthusiastic
+- Beard Fashion 
+# BEARD MUSTACCHIO WEB APP
 
 
 # Introduction
