@@ -38,4 +38,4 @@
 
 
 
-<p align="left"> >><a href="https://pridechiutsi-beard-mustichio-web-app-1.glitch.me/" > index page </a><<<br><br>
+<p align="left"> >><a href="https://pridechiutsi-beard-mustichio-web-app.glitch.me/" > index page </a><<<br><br>
